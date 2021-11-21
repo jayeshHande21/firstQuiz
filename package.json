@@ -1,0 +1,19 @@
+{
+    "name": "PunyButteryLint",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "npm-force-resolutions": "0.0.10",
+      "package-json": "^7.0.0",
+      "package-lock": "^1.0.5",
+      "package-lock.json": "^1.0.0",
+      "readline-sync": "^1.4.10"
+    }
+  }
