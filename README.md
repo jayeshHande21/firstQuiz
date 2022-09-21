@@ -10,6 +10,8 @@ Brief info about this Project:
 
 - In the end don't forget to checkout your final score out of 100 points
 
+- project Link : https://replit.com/@JayuHande/for-loop?embed=1&output=1
+
   **Note: An Absolute beginner made this quiz**
 
 ## Languages Used:
